@@ -1,5 +1,5 @@
 # RoboFroggie
-Here is a full list of commands for RoboFroggie.
+Here is a mostly full list of commands for RoboFroggie.
 
 # Channel Information Commands
 
@@ -14,7 +14,7 @@ Here is a full list of commands for RoboFroggie.
 | !followers          | Everyone  | Shows the current number of people following the channel.                                          |
 | !subs               | Everyone  | Shows the number of people who are currently subscribed to the channel.                            |
 | !uptime             | Everyone  | Shows how long Froggy has been live for.                                                           |
-| !time               | Everyone  | Shows the loacl time for Froggy right now.                                                         |
+| !time               | Everyone  | Shows the local time for Froggy right now.                                                         |
 
 # User Information Commands
 
@@ -62,9 +62,27 @@ Here is a full list of commands for RoboFroggie.
 | !gamble <amount>    | Everyone  | Risk tadpoles offered in arg1 for the chance to win more.                                          |
 | !gamble all         | Everyone  | Risk all your tadpoles for the chance to win more.                                                 |
 | !gamble jackpot     | Everyone  | Show the current number o9f tadpoles in the jackpot.                                               |
-| !slots              | Everyone  | test your luck at the slot machine for a price.                                                    |
-! !boss               | Everyone  | Gather with other viewers in the attempt to take down an elite warship.                            |
-  
-  
-  
-  
+| !slots              | Everyone  | Test your luck at the slot machine for a price.                                                    |
+| !duel <username>    | Everyone  | Pit yourself in a fight to the death  with <username>.                                             |
+| !accept <username>  | Everyone  | Accept a fight to the death with <username>.                                                       |
+| !boss               | Everyone  | Gather with other viewers in the attempt to take down an elite warship.                            |
+| !heist <amount>     | Everyone  | Gather with other viewers in the attempt to perform a random heist.                                |
+
+# Sound Files Commands
+
+| __Command__         | __Usage__ | __Description__                                                                                    |
+|:--------------------|:----------|:---------------------------------------------------------------------------------------------------|
+| !cena               | Everyone  | Plays the John Cena theme.                                                                         |
+| !comeback           | Everyone  | Plays the chorus from the sone "Baby Come Back" by Player.                                         |
+| !deez               | Everyone  | Plays the viral quote "Deez Nuts, gottem".                                                         |
+| !doublekill         | Everyone  | Plays the Mortal Kombat soundbite for a Double Kill.                                               |
+| !execute            | Everyone  | Plays the Star Wars quote "Execute order sixty-six".                                               |
+| !jackson            | Everyone  | Plays the viral quote "It was at this moment Jackson knew he fucked up".                           |
+| !jeopardy           | Everyone  | Plays the theme from the gameshow Jeopardy.                                                        |
+| !leeroy             | Everyone  | Plays the viral quote "Leeroy Jenkins".                                                            |
+| !power              | Everyone  | Plays the Star Wars quote "You don't know the power of the dark side".                             |
+| !register           | Everyone  | plays a soundbite for a cash register opening.                                                     |
+| !surprise           | Everyone  | Plays the viral quote "Surprise motherfucker".                                                     |
+| !torpedo            | Everyone  | Plays the World of Warships warning alarm for "Torpedoes, direct front".                           |
+| !windows            | Everyone  | Plays the Windows XP shutdown theme.                                                               |
+! !xfiles             | Everyone  | Plays the theme from The X Files.                                                                  |
