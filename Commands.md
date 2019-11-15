@@ -76,12 +76,14 @@ Here is a mostly full list of commands for RoboFroggie.
 | !comeback           | Everyone  | Plays the chorus from the sone "Baby Come Back" by Player.                                         |
 | !deez               | Everyone  | Plays the viral quote "Deez Nuts, gottem".                                                         |
 | !doublekill         | Everyone  | Plays the Mortal Kombat soundbite for a Double Kill.                                               |
-| !execute            | Everyone  | Plays the Star Wars quote "Execute order sixty-six".                                               |
 | !jackson            | Everyone  | Plays the viral quote "It was at this moment Jackson knew he fucked up".                           |
 | !jeopardy           | Everyone  | Plays the theme from the gameshow Jeopardy.                                                        |
+| !jurassic           | Everyone  | Plays the theme to Jurassic Park.                                                                  |
 | !leeroy             | Everyone  | Plays the viral quote "Leeroy Jenkins".                                                            |
+| !money              | Everyone  | Plays a soundbite for a cash register opening.                                                     |
+| !order66            | Everyone  | Plays the Star Wars quote "Execute order sixty-six".                                               |
 | !power              | Everyone  | Plays the Star Wars quote "You don't know the power of the dark side".                             |
-| !register           | Everyone  | plays a soundbite for a cash register opening.                                                     |
+| !shoother           | Everyone  | Plays the Jurassic Park quote "Shoot Her! Shoot Her!".                                             |
 | !surprise           | Everyone  | Plays the viral quote "Surprise motherfucker".                                                     |
 | !torpedo            | Everyone  | Plays the World of Warships warning alarm for "Torpedoes, direct front".                           |
 | !windows            | Everyone  | Plays the Windows XP shutdown theme.                                                               |
