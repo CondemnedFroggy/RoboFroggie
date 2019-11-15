@@ -28,7 +28,7 @@ Here is a mostly full list of commands for RoboFroggie.
 | __Command__         | __Usage__ | __Description__                                                                                    |
 |:--------------------|:----------|:---------------------------------------------------------------------------------------------------|
 | !backseat           | Everyone  | Politely asks people not to backseat.                                                              |
-| !division           | Everyone  | How to guide to get in a game with Froggy.                                                         |
+| !div                | Everyone  | How to guide to get in a game with Froggy.                                                         |
 | !shoutout <name>    | VIP+      | Offers a friendly suggestion to check out the <name>'s twitch channel.                             |
 
 # Random Commands
