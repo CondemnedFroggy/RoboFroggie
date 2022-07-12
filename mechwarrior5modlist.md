@@ -14,8 +14,8 @@ Mods ordered and managed with:
 | TTRulez_AIMod_EasyAIM                                | TTRulez_AIMod2 - Optional File                                   | 1.0         |
 | TTRulez_LanceMateOrderz                              | TTRulez_AIMod2 - Optional File                                   | 1.0         |
 | TTRulez_AIMod2                                       | https://www.nexusmods.com/mechwarrior5mercenaries/mods/269       | 1.0         |
-| Yet Another Mechlab                                  | https://www.nexusmods.com/mechwarrior5mercenaries/mods/459       | 0.12.1      |
-| The Equipment Collection Formerly Known as HarJel    | https://www.nexusmods.com/mechwarrior5mercenaries/mods/592       | 0.24beta3   |
+| Yet Another Mechlab                                  | https://www.nexusmods.com/mechwarrior5mercenaries/mods/459       | 0.20.2      |
+| The Equipment Collection Formerly Known as HarJel    | https://www.nexusmods.com/mechwarrior5mercenaries/mods/592       | 1.0.1       |
 | Heat Sink Kits                                       | https://www.nexusmods.com/mechwarrior5mercenaries/mods/610       | 0.7         |
 | Mech_Bundle                                          | https://www.shorturl.at/chL27                                    | 2.6         |
 | Mod Options                                          | https://www.nexusmods.com/mechwarrior5mercenaries/mods/537       | 1.1.4       |
